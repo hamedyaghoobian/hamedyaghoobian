@@ -34,3 +34,38 @@ I explore how humans interact with intelligent systems—especially **Large Lang
 
 ### 📫 Connect
 📧 hamedyaghoobian@muhlenberg.edu  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Muhlenberg-CS%20Dept-blue" alt="Muhlenberg CS Department" />  
+  <img src="https://img.shields.io/badge/Email-hamedyaghoobian%40muhlenberg.edu-green" alt="Email" />
+  <img src="https://img.shields.io/badge/Scholar-Publications-orange" alt="Publications" />
+</p>
+
+<h1 align="center">Hamed Yaghoobian</h1>
+<p align="center"><em>Assistant Professor of Computer Science @ Muhlenberg College</em></p>
+
+---
+
+## 🔬 Research
+<p align="center">
+  <code>Human–AI Interaction</code> • 
+  <code>LLMs</code> • 
+  <code>HCI</code> • 
+  <code>NLP</code> • 
+  <code>Ethical AI</code>
+</p>
+
+---
+
+## ⚡ Highlights
+- 🚀 **LLM Experiments & Prompting**  
+- 🤝 **Human–AI Collaboration Prototypes**  
+- 🛠️ **NLP Utilities & Course Materials**
+
+---
+
+<p align="center">
+  ✉️ <a href="mailto:hamedyaghoobian@muhlenberg.edu">Email Me</a> • 
+  🔗 <a href="#">Faculty Profile</a> • 
+  📄 <a href="#">Publications</a>
+</p>
