@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 📍 *Muhlenberg College | Allentown, PA*
 
 
-<p align="center">
-  <a href="https://hamedyaghoobian.com/">
-    <img src="https://hamedyaghoobian.com/wp-content/uploads/2024/03/Hamed-Yaghoobian-Logo-for-website.webp" alt="Hamed Yaghoobian Logo" width="150"/>
-  </a>
-</p>
-
-
 I explore how humans interact with intelligent systems—especially **Large Language Models (LLMs)**—at the intersection of **HCI**, **NLP**, and **Ethical AI**. My work centers on building transparent, human-centered tools for collaborative AI.
 
 ---
